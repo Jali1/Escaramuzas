@@ -1,0 +1,5 @@
+@charset "utf-8";
+.fondo {
+	background-image: url(Nueva%20carpeta/fondo.jpg);
+	background-repeat: repeat;
+}
